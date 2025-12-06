@@ -47,6 +47,7 @@ graph TD
     Mercado <-->|P2P Socket| Filial4
     Mercado <-->|P2P Socket| Filial5
   end
+```
 
 ## 🛠 Tecnologias
 
